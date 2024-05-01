@@ -31,3 +31,5 @@ Nintendo is not just known for its consoles, but also for its compelling game fr
 ## Impact on Gaming
 
 Nintendo has played a pivotal role in shaping the gaming landscape with its innovative hardware and beloved game franchises. Its commitment to providing fun, family-friendly entertainment has not only influenced gaming culture but has also had a broader impact on global popular culture.
+
+![Screenshot 2024-05-01 at 2 57 44 PM](https://github.com/sujaanr/nintendo-history/assets/145608695/295a236d-c6ff-4f10-a0fa-f81d4f17b12d)
