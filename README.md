@@ -23,5 +23,3 @@ Nintendo, established in 1889 in Kyoto, Japan, originally started as a company p
 - **Pokémon Series**: Involves collecting and battling with a variety of creatures.
 - **Metroid Series**: A space-themed action-adventure saga.
 - **Donkey Kong**: The classic arcade game that first introduced Mario.
-
-![Screenshot 2024-05-01 at 2 57 44 PM](https://github.com/sujaanr/nintendo-history/assets/145608695/295a236d-c6ff-4f10-a0fa-f81d4f17b12d)
